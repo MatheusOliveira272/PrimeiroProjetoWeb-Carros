@@ -1,0 +1,9 @@
+br\com\unincor\web\controller\BeanPrincipal.class
+br\com\unincor\web\core\HibernateManager.class
+br\com\unincor\web\model\dao\CarroDao.class
+br\com\unincor\web\filters\FiltroRequisicao.class
+br\com\unincor\web\model\dao\GenericDao.class
+br\com\unincor\web\model\domain\TipoCombustivel.class
+br\com\unincor\web\model\domain\TipoVeiculo.class
+br\com\unincor\web\model\domain\Carro.class
+br\com\unincor\web\model\domain\TipoTransmissao.class
